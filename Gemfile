@@ -8,7 +8,7 @@ gem 'pg'
 gem 'sqlite3-ruby', :require => 'sqlite3'
 gem 'nokogiri', '1.4.1'
 gem 'memcached'
-
+gem 'devise'
 
 # Use unicorn as the web server
 # gem 'unicorn'
