@@ -78,7 +78,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  devise
+  devise (= 1.1.1)
   memcached
   nokogiri (= 1.4.1)
   pg
