@@ -9,6 +9,7 @@ gem 'sqlite3-ruby', :require => 'sqlite3'
 gem 'nokogiri', '1.4.1'
 gem 'memcached'
 gem 'devise', '1.1.1'
+gem 'declarative_authorization'
 
 # Use unicorn as the web server
 # gem 'unicorn'

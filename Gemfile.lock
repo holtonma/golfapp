@@ -32,6 +32,8 @@ GEM
       activesupport (>= 3.0.0.beta)
     bcrypt-ruby (2.1.2)
     builder (2.1.2)
+    declarative_authorization (0.5)
+      rails (>= 2.1.0)
     devise (1.1.1)
       bcrypt-ruby (~> 2.1.2)
       warden (~> 0.10.7)
@@ -78,6 +80,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  declarative_authorization
   devise (= 1.1.1)
   memcached
   nokogiri (= 1.4.1)
